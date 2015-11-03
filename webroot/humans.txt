@@ -1,0 +1,1 @@
+Grimes is a PHP-boilerplate/framework for small websites. Grimes was built by Christoffer Thörngren.
